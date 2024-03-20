@@ -1,5 +1,6 @@
 body{
     background-image: url('../css/photo/sbtet_ap_latest_logo.png');
+    background-repeat: no-repeat;
     background-size: cover;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
