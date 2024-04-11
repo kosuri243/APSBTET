@@ -27,6 +27,9 @@ h3{
     margin: 1%;
     padding: 1%;
 }
+.notification li{
+    margin:2%;
+}
 .applications li{
     padding: 2%;
 }
